@@ -294,7 +294,7 @@
 		
 		"TimePanelValue"
 		{
-			"ControlName"		"CExLabel"
+			"ControlName"	"CExLabel"
 			"fieldName"		"TimePanelValue"
 			"font"			"Futura20"
 			"fgcolor"		"OmpText"
@@ -305,12 +305,12 @@
 			"tall"			"20"
 			"visible"		"1"
 			"enabled"		"1"
-			"textAlignment"		"center"
+			"textAlignment"	"center"
 			"labelText"		"0:00"
 
 			if_match
 			{
-				"font"			"Futura12"
+				"font"		"Futura12"
 			}
 		}	
 	}
